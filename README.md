@@ -84,7 +84,7 @@ Package Year:
 - It gives the age of the user by checking his Birthyear.
 - It gives the current date to Package Departments so that it can use the date to update information.
 
-### How to Run
+# How to Run Project
 - Start by Compiling and running class "Menu" from package "Menu"
 - The account number and password for the only 3 users are present in "Profiles.txt".
 - Every account number has 5 digit and password has 3 characters.
