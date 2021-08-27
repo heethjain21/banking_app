@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=void\ login()
+comment2.params=p
+comment2.target=void\ profile(java.lang.String)
+comment3.params=id
+comment3.target=void\ match(java.lang.String)
+comment4.params=an\ pwdlength
+comment4.target=void\ pwdformat(int,\ int)
+numComments=5

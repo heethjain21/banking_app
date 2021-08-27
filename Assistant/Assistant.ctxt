@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=id\ name\ g\ age\ caste\ bal\ p
+comment0.target=void\ recieve_identity(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ long,\ java.lang.String)
+comment1.params=
+comment1.target=void\ face()
+comment10.params=g\ age\ caste\ p
+comment10.target=void\ retry(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=g\ age\ caste\ p
+comment2.target=void\ main(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment3.params=g\ age\ caste\ p
+comment3.target=void\ input(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment4.params=input\ g\ age\ caste\ p
+comment4.target=void\ help(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment5.params=g\ age\ caste\ p
+comment5.target=void\ callsa(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment6.params=g\ age\ caste\ p
+comment6.target=void\ callrd(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment7.params=g\ age\ caste\ p
+comment7.target=void\ callfd(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment8.params=input\ g\ age\ caste\ loantype\ p
+comment8.target=void\ callloan(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=g\ age\ caste\ p
+comment9.target=void\ recieve(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+numComments=11
