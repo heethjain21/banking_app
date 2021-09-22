@@ -1,8 +1,8 @@
 # Personal Assistant for Bank
 
-Name: Heeth Pradeep Jain
+My Grade 10 Board Project
 <br>Subject: Computer Application 
-<br>For: Grade 10 Board Project
+
 
 ### Current System
 
