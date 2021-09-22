@@ -1,6 +1,6 @@
 # Personal Assistant for Bank
 
-My Grade 10 Board Project
+My Grade 10 ISCE Board Project
 <br>Subject: Computer Application 
 
 
